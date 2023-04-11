@@ -1,4 +1,4 @@
-# essentials
+# base
 
 ## Project setup
 
